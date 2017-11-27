@@ -1,6 +1,6 @@
 import socket
 
-UDP_IP = "CHANGE TO PI'S IP"
+UDP_IP = 10.0.0.6
 UDP_Port = 5005
 
 MESSAGE = "Hello, World!"
