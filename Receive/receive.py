@@ -1,6 +1,6 @@
 import socket
 
-UDP_IP = "CHANGE TO PI'S IP"
+UDP_IP = 10.0.0.7
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET,  # Internet
